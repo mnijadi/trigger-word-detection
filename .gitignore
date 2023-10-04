@@ -1,0 +1,5 @@
+raw_data/
+audio_examples/
+train.wav
+XY_dev/
+models/
