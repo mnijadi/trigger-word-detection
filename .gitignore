@@ -3,3 +3,4 @@ audio_examples/
 train.wav
 XY_dev/
 models/
+__pycache__/
